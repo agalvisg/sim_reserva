@@ -23,3 +23,6 @@ turista.
 - Main es el principal que deberá ejecutarse para obtener la información. Por el momento por temas de facilidad el modelo de avión escogido será el boeing 737 pues solo tiene un pasillo en la mitad y es más fácil de generar, y sobretodo, de ponderar. En la línea 63 se puede modificar el asiento cuya posición respecto de la nomenclatura (row(fila), column(columna)) se desee ver.
 
 
+**LINK AL REPOSITORIO DE GITHUB**
+https://github.com/agalvisg/sim_reserva.git
+
