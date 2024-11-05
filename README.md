@@ -1,1 +1,3 @@
 # sim_reserva
+Este es un simulador de reserva de puestos en un avión. en un principio es un bosquejo de un boeing 737 nada más con 6 columnas de asientos en clase turista, 4 en clase business y 2 en primera(queda por implementar esta división).
+El output serán las conexiones que existen entre los distintos asientos y la nomenclatura de cada uno (fila, columna) y las conexiones que existen con cada uno de los asientos que hay. Es una lista larga que resultará confusa así que recomiendo ignorar. Más adelante será necesaria para poder representar el grafo directamente llamando a la funcion nx.draw 

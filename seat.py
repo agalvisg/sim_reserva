@@ -18,7 +18,7 @@ class Seat:
     
     def get_position(self):
         return self.position
-    
+     
     def get_comfort_level(self):
         return self.comfort_level
     
